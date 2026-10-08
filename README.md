@@ -50,11 +50,7 @@ Dans cet exercice, il fallait demander à l’utilisateur :
 - la note du projet et l’examen (conversion en `float`)
 - les coefficients du projet et de l’examen (conversion en `int`)
 
-Ensuite, on calculait la moyenne pondérée avec la formule :
-
-$$
-\text{moyenne} = \frac{\text{note\_projet} \times \text{coeff\_projet} + \text{note\_ecrit} \times \text{coeff\_ecrit}}{\text{coeff\_projet} + \text{coeff\_ecrit}}
-$$
+Ensuite, on calculait la moyenne pondérée.
 
 La réponse réalisée a donné le résultat suivant :
 
